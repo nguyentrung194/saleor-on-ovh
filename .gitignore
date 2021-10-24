@@ -7,7 +7,7 @@
 !.dockerignore
 !.eslintrc.json
 !.flowconfig
-!.github
+.github
 !.gitignore
 !.gqlconfig
 !.npmrc
